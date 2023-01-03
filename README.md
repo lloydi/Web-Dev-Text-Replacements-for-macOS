@@ -16,14 +16,14 @@ How to trigger these text replacements:
 
 (Where `kbd` is the HTML element you are getting a link for; change according to the element that you need)
 
-* HTML reference - link. Trigger format = !kbd-l 
-* HTML reference - Markdown link. Trigger format = !kbd-md
+* HTML reference - link. Trigger format = <mark>!kbd-l </mark>
+* HTML reference - Markdown link. Trigger format = <mark>!kbd-md</mark>
 
 ### WCAG SC Links
 
 (Where `1.1.1` is the SC you are getting a link for; change according to the SC that you need)
 
-* WCAG 2.1 - Link. Trigger format = 1.1.1-l
-* WCAG 2.1 - Markdown link. Trigger format = 1.1.1-md
-* WCAG 2.1 - Understanding - Link. Trigger format = 1.1.1-u-l
-* WCAG 2.1 - Understanding - Markdown link. Trigger format = 1.1.1-u-md
+* WCAG 2.1 - Link. Trigger format = <mark>1.1.1-l</mark>
+* WCAG 2.1 - Markdown link. Trigger format = <mark>1.1.1-md</mark>
+* WCAG 2.1 - Understanding - Link. Trigger format = <mark>1.1.1-u-l</mark>
+* WCAG 2.1 - Understanding - Markdown link. Trigger format = <mark>1.1.1-u-md</mark>
