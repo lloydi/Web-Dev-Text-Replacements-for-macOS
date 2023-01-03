@@ -12,8 +12,17 @@ Unfortunately, I am not sure how you would add it in a way that does not require
 
 How to trigger these text replacements:
 
-* HTML reference - link. Trigger format = !kbd-l (where `kbd` is the HTML element you are getting link for)
-* HTML reference - Markdown link. Trigger format = !kbd-md (where `kbd` is the HTML element you are getting link for)
+### HTML Reference
+
+(Where `kbd` is the HTML element you are getting a link for; change according to the element that you need)
+
+* HTML reference - link. Trigger format = !kbd-l 
+* HTML reference - Markdown link. Trigger format = !kbd-md
+
+### WCAG SC Links
+
+(Where `1.1.1` is the SC you are getting a link for; change according to the SC that you need)
+
 * WCAG 2.1 - Link. Trigger format = 1.1.1-l
 * WCAG 2.1 - Markdown link. Trigger format = 1.1.1-md
 * WCAG 2.1 - Understanding - Link. Trigger format = 1.1.1-u-l
