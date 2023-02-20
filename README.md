@@ -1,4 +1,4 @@
-# Web Dev Text Replacements for macOS
+# Text Expansions - macOS Text Replacements
 
 These .plist files can simply be drag/dropped into the System Settings for keyboard text replacements.
 
