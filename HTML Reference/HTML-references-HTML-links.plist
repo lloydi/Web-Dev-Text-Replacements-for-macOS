@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element"&gt;a element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!a-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element"&gt;abbr element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!abbr-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-address-element"&gt;address element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!address-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/image-maps.html#the-area-element"&gt;area element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!area-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-article-element"&gt;article element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!article-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-aside-element"&gt;aside element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!aside-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/media.html#the-audio-element"&gt;audio element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!audio-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-b-element"&gt;b element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!b-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-base-element"&gt;base element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!base-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdi-element"&gt;bdi element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!bdi-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdo-element"&gt;bdo element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!bdo-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element"&gt;blockquote element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!blockquote-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-body-element"&gt;body element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!body-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-br-element"&gt;br element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!br-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element"&gt;button element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!button-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element"&gt;canvas element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!canvas-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-caption-element"&gt;caption element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!caption-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-cite-element"&gt;cite element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!cite-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element"&gt;code element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!code-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-col-element"&gt;col element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!col-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-colgroup-element"&gt;colgroup element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!colgroup-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-data-element"&gt;data element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!data-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-datalist-element"&gt;datalist element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!datalist-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-dd-element"&gt;dd element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!dd-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/edits.html#the-del-element"&gt;del element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!del-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element"&gt;details element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!details-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-dfn-element"&gt;dfn element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!dfn-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element"&gt;dialog element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!dialog-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-div-element"&gt;div element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!div-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element"&gt;dl element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!dl-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-dt-element"&gt;dt element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!dt-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element"&gt;em element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!em-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-embed-element"&gt;embed element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!embed-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-fieldset-element"&gt;fieldset element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!fieldset-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-figcaption-element"&gt;figcaption element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!figcaption-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-figure-element"&gt;figure element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!figure-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-footer-element"&gt;footer element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!footer-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/forms.html#the-form-element"&gt;form element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!form-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-head-element"&gt;head element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!head-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-header-element"&gt;header element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!header-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-hgroup-element"&gt;hgroup element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!hgroup-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-hr-element"&gt;hr element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!hr-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-html-element"&gt;html element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!html-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-i-element"&gt;i element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!i-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element"&gt;iframe element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!iframe-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/embedded-content.html#the-img-element"&gt;img element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!img-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/input.html#the-input-element"&gt;input element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!input-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/edits.html#the-ins-element"&gt;ins element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!ins-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-kbd-element"&gt;kbd element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!kbd-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/forms.html#the-label-element"&gt;label element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!label-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-legend-element"&gt;legend element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!legend-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-li-element"&gt;li element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!li-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-link-element"&gt;link element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!link-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-main-element"&gt;main element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!main-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/image-maps.html#the-map-element"&gt;map element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!map-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-mark-element"&gt;mark element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!mark-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-menu-element"&gt;menu element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!menu-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element"&gt;meta element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!meta-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-meter-element"&gt;meter element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!meter-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-nav-element"&gt;nav element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!nav-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/scripting.html#the-noscript-element"&gt;noscript element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!noscript-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element"&gt;object element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!object-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element"&gt;ol element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!ol-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-optgroup-element"&gt;optgroup element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!optgroup-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-option-element"&gt;option element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!option-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-output-element"&gt;output element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!output-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-p-element"&gt;p element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!p-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-param-element"&gt;param element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!param-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element"&gt;picture element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!picture-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-pre-element"&gt;pre element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!pre-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-progress-element"&gt;progress element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!progress-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element"&gt;q element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!q-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rp-element"&gt;rp element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!rp-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rt-element"&gt;rt element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!rt-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-ruby-element"&gt;ruby element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!ruby-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-s-element"&gt;s element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!s-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-samp-element"&gt;samp element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!samp-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/scripting.html#the-script-element"&gt;script element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!script-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/sections.html#the-section-element"&gt;section element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!section-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element"&gt;select element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!select-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/scripting.html#the-slot-element"&gt;slot element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!slot-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-small-element"&gt;small element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!small-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/embedded-content.html#the-source-element"&gt;source element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!source-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-span-element"&gt;span element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!span-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-strong-element"&gt;strong element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!strong-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-style-element"&gt;style element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!style-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/interactive-elements.html#the-summary-element"&gt;summary element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!summary-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-table-element"&gt;table element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!table-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-tbody-element"&gt;tbody element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!tbody-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-td-element"&gt;td element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!td-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/scripting.html#the-template-element"&gt;template element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!template-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/form-elements.html#the-textarea-element"&gt;textarea element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!textarea-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-tfoot-element"&gt;tfoot element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!tfoot-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-th-element"&gt;th element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!th-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-thead-element"&gt;thead element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!thead-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-time-element"&gt;time element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!time-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/semantics.html#the-title-element"&gt;title element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!title-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/tables.html#the-tr-element"&gt;tr element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!tr-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/media.html#the-track-element"&gt;track element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!track-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-u-element"&gt;u element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element"&gt;ul element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!ul-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-var-element"&gt;var element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!var-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/media.html#the-video-element"&gt;video element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!video-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-wbr-element"&gt;wbr element&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>!wbr-h</string>
+ </dict>
+</array>
+</plist>
