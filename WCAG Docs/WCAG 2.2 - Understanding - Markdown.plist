@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 2.4.11 Focus Appearance (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)</string>
+  <key>shortcut</key>
+  <string>2.4.11-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html)</string>
+  <key>shortcut</key>
+  <string>2.4.12-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html)</string>
+  <key>shortcut</key>
+  <string>2.4.13-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html)</string>
+  <key>shortcut</key>
+  <string>2.5.7-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)</string>
+  <key>shortcut</key>
+  <string>2.5.8-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html)</string>
+  <key>shortcut</key>
+  <string>3.2.6-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html)</string>
+  <key>shortcut</key>
+  <string>3.3.7-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
+  <key>shortcut</key>
+  <string>3.3.8-u-md</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>[Understanding SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html)</string>
+  <key>shortcut</key>
+  <string>3.3.9-u-md</string>
+ </dict>
+</array>
+</plist>

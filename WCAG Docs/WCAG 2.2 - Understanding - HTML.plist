@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"&gt;Understanding SC 2.4.11 Focus Appearance (Level AA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>2.4.11-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"&gt;Understanding SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>2.4.12-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"&gt;Understanding SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>2.4.13-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"&gt;Understanding SC 2.5.7 Dragging Movements (Level AA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>2.5.7-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"&gt;Understanding SC 2.5.8 Target Size (Minimum) (Level AA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>2.5.8-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"&gt;Understanding SC 3.2.6 Consistent Help (Level A)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>3.2.6-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"&gt;Understanding SC 3.3.7 Redundant Entry (Level A)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>3.3.7-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html"&gt;Understanding SC 3.3.8 Accessible Authentication (Level AA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>3.3.8-u-h</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"&gt;Understanding SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)&lt;/a&gt;</string>
+  <key>shortcut</key>
+  <string>3.3.9-u-h</string>
+ </dict>
+</array>
+</plist>

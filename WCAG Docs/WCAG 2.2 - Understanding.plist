@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html</string>
+  <key>shortcut</key>
+  <string>2.4.11-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html</string>
+  <key>shortcut</key>
+  <string>2.4.12-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html</string>
+  <key>shortcut</key>
+  <string>2.4.13-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html</string>
+  <key>shortcut</key>
+  <string>2.5.7-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html</string>
+  <key>shortcut</key>
+  <string>2.5.8-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html</string>
+  <key>shortcut</key>
+  <string>3.2.6-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html</string>
+  <key>shortcut</key>
+  <string>3.3.7-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
+  <key>shortcut</key>
+  <string>3.3.8-u-l</string>
+ </dict>
+ <dict>
+  <key>phrase</key>
+  <string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html</string>
+  <key>shortcut</key>
+  <string>3.3.9-u-l</string>
+ </dict>
+</array>
+</plist>
