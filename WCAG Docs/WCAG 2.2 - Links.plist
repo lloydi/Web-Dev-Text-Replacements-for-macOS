@@ -4,19 +4,19 @@
 <array>
  <dict>
   <key>phrase</key>
-  <string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
+  <string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum</string>
   <key>shortcut</key>
   <string>2.4.11-l</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum</string>
+  <string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
   <key>shortcut</key>
   <string>2.4.12-l</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
+  <string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
   <key>shortcut</key>
   <string>2.4.13-l</string>
  </dict>

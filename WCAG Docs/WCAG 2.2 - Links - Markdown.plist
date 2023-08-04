@@ -4,19 +4,19 @@
 <array>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.11 Focus Appearance (Level AA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
+  <string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
   <key>shortcut</key>
   <string>2.4.11-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
+  <string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
   <key>shortcut</key>
   <string>2.4.12-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
+  <string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
   <key>shortcut</key>
   <string>2.4.13-md</string>
  </dict>
