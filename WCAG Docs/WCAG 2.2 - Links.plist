@@ -46,7 +46,7 @@
  </dict>
  <dict>
   <key>phrase</key>
-  <string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
+  <string>https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum</string>
   <key>shortcut</key>
   <string>3.3.8-l</string>
  </dict>

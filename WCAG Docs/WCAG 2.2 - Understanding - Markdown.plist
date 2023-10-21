@@ -46,7 +46,7 @@
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[Understanding SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
+  <string>[Understanding SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
   <key>shortcut</key>
   <string>3.3.8-u-md</string>
  </dict>
